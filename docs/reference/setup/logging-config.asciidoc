@@ -144,7 +144,7 @@ PUT /_cluster/settings
 -------------------------------
 // CONSOLE
 
-This is most appropriate when you need to dynamically need to adjust a logging
+This is most appropriate when you need to dynamically adjust a logging
 level on an actively-running cluster.
 
 --
