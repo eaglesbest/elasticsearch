@@ -63,7 +63,7 @@ NOTE: Log4j's configuration parsing gets confused by any extraneous whitespace;
 if you copy and paste any Log4j settings on this page, or enter any Log4j
 configuration in general, be sure to trim any leading and trailing whitespace.
 
-Note than you can replace `.gz` by `.zip` in `appender.rolling.filePattern` to
+Note that you can replace `.gz` by `.zip` in `appender.rolling.filePattern` to
 compress the rolled logs using the zip format. If you remove the `.gz`
 extension then logs will not be compressed as they are rolled.
 
